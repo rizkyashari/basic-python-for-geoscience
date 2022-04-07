@@ -1,2 +1,2 @@
 # basic-python-for-geoscience
-Merupakan koding dari pelatihan bahasa pemrograman Python dasar untuk geosaintis pemula.
+A collection of basic Python programming language codes from a training for beginner geoscientists.
