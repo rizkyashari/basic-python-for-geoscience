@@ -1,2 +1,2 @@
 # basic-python-for-geoscience
-Merupakan kumpulan modul python dasar untuk geosaintis pemula.
+Merupakan koding dari pelatihan bahasa pemrograman Python dasar untuk geosaintis pemula.
